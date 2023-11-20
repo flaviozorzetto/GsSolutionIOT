@@ -13,3 +13,6 @@
 <p> Node-RED (json do flow para ser importado) </p>
 
 <p> Estabelece conexão com o servidor MQTT ouvindo o topico de temperatura e renderizando um gráfico.</p>
+
+<p> Link Node-RED http://localhost:1880</p>
+<p> Link node-red-dashboard: http://localhost:1880/ui </p>
