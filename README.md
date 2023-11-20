@@ -17,8 +17,8 @@
 <p> Link Node-RED http://localhost:1880</p>
 <p> Link node-red-dashboard: http://localhost:1880/ui </p>
 
-Variaveis no node-red:
+<p> Variaveis no node-red: </p>
 
-Porta mqtt: 1883
-Host: broker.hivemq.com
-Topico: topic_sensor_temperature
+<p>Porta mqtt: 1883</p>
+<p>Host: broker.hivemq.com</p>
+<p>Topico: topic_sensor_temperature</p>
