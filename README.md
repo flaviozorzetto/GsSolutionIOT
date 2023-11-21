@@ -1,5 +1,7 @@
 # GsSolutionIOT
 
+<p>Link video uso: https://youtu.be/KUtBBcCN2-U</p>
+
 ## Descrição
 
 <p> Esta solução tem como objetivo capturar as temperaturas do paciente e enviar para um servidor MQTT Broker, para ser posteriormente registrado na evidencia do exame do paciente ocorrências como estado febril por exemplo.</p>
