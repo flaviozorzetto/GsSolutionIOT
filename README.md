@@ -22,3 +22,12 @@
 <p>Porta mqtt: 1883</p>
 <p>Host: broker.hivemq.com</p>
 <p>Topico: topic_sensor_temperature</p>
+
+## RMS
+<ul>
+  <li>Flavio Esrenko Zorzetto RM93175</li>
+  <li>Lucas Kenji Nishida RM94233</li>
+  <li>Wesley Novais Kleim RM94412</li>
+  <li>Jorge Rodrigo dos Santos RM93418</li>
+  <li>Lucas Gonçalves Leu De Lima RM88349</li>
+</ul>
